@@ -1,26 +1,26 @@
 export const en = {
   nav: {
     home: "Home",
-    apartments: "Apartments",
+    apartments: "Properties",
     amenities: "Amenities",
     gallery: "Gallery",
     contact: "Contact",
     bookNow: "Book Now"
   },
   hero: {
-    subtitle: "BEACHFRONT LUXURY ACCOMMODATION",
-    title: "Experience Seaside Tranquility",
-    description: "Discover our exclusive collection of luxury beachfront apartments and hotel rooms, offering unparalleled comfort and breathtaking sea views.",
+    subtitle: "JAMBO STAYS KENYA - BY SAMUEL",
+    title: "Experience Authentic Kenyan Hospitality",
+    description: "Discover our handpicked collection of comfortable Airbnb properties across Kenya, offering the perfect blend of local culture, modern amenities, and warm hospitality.",
     bookStay: "Book Your Stay",
-    exploreApartments: "Explore Apartments",
+    exploreApartments: "Explore Properties",
     scrollDown: "Scroll Down"
   },
   footer: {
-    description: "Luxurious beachfront apartments and hotel rooms with stunning sea views, offering the perfect blend of comfort and elegance for your dream vacation.",
+    description: "Premium Airbnb accommodations across Kenya's most vibrant cities. Experience authentic Kenyan hospitality with modern comfort, curated by Samuel for your perfect stay.",
     quickLinks: "Quick Links",
     contact: "Contact",
     newsletter: "Newsletter",
-    newsletterDesc: "Subscribe to our newsletter for special deals and updates.",
+    newsletterDesc: "Subscribe for exclusive deals and Kenya travel tips.",
     yourEmail: "Your email address",
     subscribe: "Subscribe",
     allRights: "All rights reserved."
@@ -39,7 +39,7 @@ export const en = {
   },
   testimonials: {
     title: "What Our Guests Say",
-    description: "Discover why our guests keep coming back to MareSereno for their seaside getaways."
+    description: "Discover why travelers choose Jambo Stays Kenya for their authentic Kenyan experience."
   },
   notFound: {
     title: "Page Not Found",
@@ -48,64 +48,64 @@ export const en = {
   },
   home: {
     welcome: {
-      subtitle: "Welcome to MareSereno",
-      title: "Luxury Seaside Accommodations",
-      description1: "Nestled on the pristine Mediterranean coastline, MareSereno offers an exquisite collection of luxury apartments and hotel rooms. Our beachfront accommodations combine elegant design with modern comfort, creating the perfect setting for an unforgettable seaside getaway.",
-      description2: "Whether you're seeking a romantic escape, a family vacation, or a peaceful retreat, our diverse range of accommodations caters to every preference and need. Each space is thoughtfully designed to provide panoramic sea views and direct beach access.",
+      subtitle: "Welcome to Jambo Stays Kenya",
+      title: "Your Home Away From Home in Kenya",
+      description1: "Curated by Samuel, Jambo Stays Kenya offers a carefully selected collection of Airbnb properties across Kenya's most exciting destinations. From the bustling streets of Nairobi to the coastal beauty of Mombasa, each property combines authentic Kenyan charm with modern amenities for an unforgettable stay.",
+      description2: "Whether you're here for business, safari adventures, beach relaxation, or cultural exploration, our diverse properties cater to every traveler's needs. Each space is personally inspected and equipped to ensure your comfort, safety, and memorable Kenyan experience.",
       learnMore: "Learn More"
     },
     booking: {
       subtitle: "Book Your Stay",
-      title: "Reserve Your Perfect Getaway",
-      description: "Take the first step towards your dream vacation by checking availability and securing your preferred dates. Our simple booking process ensures a seamless experience from reservation to arrival.",
-      benefits: ["Instant confirmation", "Best rate guarantee", "Flexible cancellation options", "Secure payment"]
+      title: "Reserve Your Perfect Kenyan Experience",
+      description: "Book with confidence through our simple reservation system. Samuel's properties are ready to welcome you with authentic Kenyan hospitality and modern comfort.",
+      benefits: ["Instant confirmation", "Verified properties", "24/7 host support", "Secure payment"]
     },
     featuredApartments: {
-      subtitle: "Our Accommodations",
-      title: "Featured Apartments",
-      description: "Discover our most popular accommodation options, each offering a perfect blend of comfort, style, and breathtaking sea views.",
-      viewAll: "View All Apartments"
+      subtitle: "Our Properties",
+      title: "Featured Accommodations",
+      description: "Explore our top-rated properties across Kenya, each offering exceptional comfort, local character, and convenient access to attractions.",
+      viewAll: "View All Properties"
     },
     amenities: {
-      subtitle: "Hotel Amenities",
-      title: "Experience The Best",
-      description: "Enjoy our premium facilities and services designed to make your stay exceptional.",
+      subtitle: "Property Features",
+      title: "Everything You Need",
+      description: "Our properties come equipped with modern amenities for your comfort and convenience.",
       features: {
         beachfront: {
-          title: "Beachfront Location",
-          description: "Direct access to pristine beaches with crystal clear waters."
+          title: "Prime Locations",
+          description: "Properties in Nairobi, Mombasa, Nakuru, and other key destinations."
         },
         pools: {
-          title: "Swimming Pools",
-          description: "Relax by our infinity pools with stunning sea views."
+          title: "Modern Facilities",
+          description: "Select properties feature pools, gardens, and outdoor spaces."
         },
         restaurant: {
-          title: "Gourmet Restaurant",
-          description: "Enjoy exquisite local and international cuisine."
+          title: "Kitchen Facilities",
+          description: "Fully equipped kitchens with local market access nearby."
         },
         wifi: {
-          title: "High-Speed Wi-Fi",
-          description: "Stay connected with complimentary high-speed internet."
+          title: "Fast Wi-Fi",
+          description: "Reliable high-speed internet in all properties for work or leisure."
         },
         bar: {
-          title: "Beach Bar & Café",
-          description: "Refreshing drinks and snacks served right on the beach."
+          title: "Local Dining",
+          description: "Close proximity to authentic Kenyan restaurants and cafes."
         },
         location: {
-          title: "Prime Location",
-          description: "Close to local attractions, shops, and restaurants."
+          title: "Strategic Locations",
+          description: "Near attractions, shopping centers, and public transport."
         }
       }
     },
     cta: {
-      title: "Ready for Your Dream Vacation?",
-      description: "Book your stay today and experience the perfect blend of luxury, comfort, and stunning sea views.",
+      title: "Ready to Experience Kenya?",
+      description: "Book your stay today and discover authentic Kenyan hospitality combined with modern comfort. Karibu Kenya!",
       bookNow: "Book Now"
     }
   },
   apartments: {
-    title: "Our Apartments & Rooms",
-    subtitle: "Discover our selection of premium accommodations, ranging from cozy studios to luxurious penthouses.",
+    title: "Our Properties",
+    subtitle: "Browse our carefully curated selection of Airbnb properties across Kenya, from cozy studios to spacious family homes.",
     filters: {
       guests: "Guests",
       anyGuests: "Any number of guests",
@@ -226,15 +226,15 @@ export const en = {
     }
   },
   contact: {
-    title: "Contact Us",
-    subtitle: "We're here to help make your stay unforgettable. Reach out with any questions or special requests.",
+    title: "Contact Samuel",
+    subtitle: "Have questions about your stay? Samuel and the Jambo Stays team are here to help you plan the perfect Kenyan experience.",
     getInTouch: "Get In Touch",
     address: "Address",
     phone: "Phone",
     email: "Email",
-    receptionHours: "Reception Hours",
-    checkInTime: "Check-in: After 3:00 PM",
-    checkOutTime: "Check-out: Before 11:00 AM",
+    receptionHours: "Available Hours",
+    checkInTime: "Check-in: 2:00 PM onwards (flexible)",
+    checkOutTime: "Check-out: 11:00 AM (flexible)",
     sendMessage: "Send Us a Message",
     fullName: "Full Name",
     phoneNumber: "Phone Number",
@@ -243,152 +243,152 @@ export const en = {
     howCanWeHelp: "How can we help you?",
     send: "Send Message",
     messageSent: "Message Sent!",
-    thankYou: "Thank you for reaching out. We'll respond to your message as soon as possible.",
+    thankYou: "Asante! Thank you for reaching out. Samuel will respond as soon as possible.",
     faq: "Frequently Asked Questions",
-    faqSubtitle: "Find quick answers to commonly asked questions about our accommodations and services.",
+    faqSubtitle: "Quick answers about booking and staying at Jambo Stays Kenya properties.",
     questions: {
       checkInOut: {
-        question: "What are your check-in and check-out times?",
-        answer: "Check-in is from 3:00 PM onwards, and check-out is until 11:00 AM. Early check-in or late check-out may be arranged based on availability."
+        question: "What are the check-in and check-out times?",
+        answer: "Standard check-in is 2:00 PM and check-out is 11:00 AM. We offer flexible timing where possible - just let Samuel know your arrival time in advance."
       },
       parking: {
-        question: "Is parking available at the property?",
-        answer: "Yes, we offer complimentary parking for all guests. Valet parking service is also available for an additional fee."
+        question: "Is parking available?",
+        answer: "Most properties offer secure parking. Nairobi and Mombasa properties have dedicated parking spaces. Details are provided for each listing."
       },
       pets: {
-        question: "Are pets allowed in the apartments?",
-        answer: "We welcome pets in designated pet-friendly apartments. Please inform us in advance if you plan to bring a pet, as additional charges may apply."
+        question: "Can I bring my pet?",
+        answer: "Select properties are pet-friendly. Please contact Samuel before booking if you're traveling with pets to confirm availability."
       },
       breakfast: {
-        question: "Is breakfast included in the room rate?",
-        answer: "Breakfast is included in select room packages. You can check the inclusion during the booking process or add it to your reservation at any time."
+        question: "Is breakfast included?",
+        answer: "Properties have fully equipped kitchens. Samuel can arrange breakfast delivery or recommend excellent local restaurants nearby."
       },
       transfers: {
-        question: "Do you offer airport transfers?",
-        answer: "Yes, we offer airport transfers for an additional fee. Please contact our concierge at least 48 hours before your arrival to arrange transportation."
+        question: "Do you provide airport pickup?",
+        answer: "Yes! Samuel can arrange reliable airport transfers from JKIA (Nairobi) or Moi International (Mombasa). Contact us 24-48 hours before arrival."
       },
       amenities: {
-        question: "What amenities are available at the property?",
-        answer: "Our property features swimming pools, a spa, restaurants, a beach bar, fitness center, and direct beach access. All apartments include Wi-Fi, air conditioning, and modern appliances."
+        question: "What amenities are included?",
+        answer: "All properties include Wi-Fi, hot water, backup power, fully equipped kitchens, and security. Specific amenities vary by property - check individual listings for details."
       }
     }
   },
   apartmentDescriptions: {
     "1": {
-      name: "Deluxe Sea View Suite",
-      description: "Luxurious suite with panoramic sea views, modern amenities, and a private balcony."
+      name: "Nairobi Skyline Suite",
+      description: "Modern 2-bedroom apartment in Westlands with city views, fast Wi-Fi, and secure parking."
     },
     "2": {
-      name: "Premium Family Apartment",
-      description: "Spacious apartment ideal for families, with full kitchen and stunning coastal views."
+      name: "Mombasa Beach House",
+      description: "Spacious 3-bedroom home near Diani Beach, perfect for families, with pool and ocean breeze."
     },
     "3": {
-      name: "Executive Beach Studio",
-      description: "Elegant studio with direct beach access, modern design, and premium finishes."
+      name: "Nakuru Garden Studio",
+      description: "Cozy studio apartment near Lake Nakuru, ideal for solo travelers and safari enthusiasts."
     },
     "4": {
-      name: "Luxury Penthouse Suite",
-      description: "Exclusive top-floor suite with expansive terrace and panoramic sea views."
+      name: "Karen Luxury Villa",
+      description: "Exclusive 4-bedroom villa in Karen, Nairobi with lush gardens and premium amenities."
     },
     "5": {
-      name: "Classic Double Room",
-      description: "Comfortable hotel room with modern amenities and partial sea views."
+      name: "CBD Business Apartment",
+      description: "Convenient 1-bedroom in Nairobi CBD, perfect for business travelers with workspace."
     },
     "6": {
-      name: "Garden View Apartment",
-      description: "Peaceful apartment surrounded by lush gardens, just a short walk from the beach."
+      name: "Kilifi Coastal Retreat",
+      description: "Peaceful 2-bedroom apartment near Kilifi with garden views and beach access."
     }
   },
   amenitiesPage: {
-    title: "Our Amenities",
-    subtitle: "Discover the luxury amenities and services that make your stay unforgettable.",
-    description: "At MareSereno, we are dedicated to providing a comprehensive and luxurious stay experience. From our beachfront services to wellness facilities, every detail has been curated to ensure maximum comfort and pleasure.",
+    title: "Property Features & Services",
+    subtitle: "Everything you need for a comfortable stay in Kenya.",
+    description: "At Jambo Stays Kenya, Samuel ensures every property meets high standards of comfort, safety, and convenience. From essential amenities to optional services, we've got you covered for an authentic Kenyan experience.",
     categories: {
       wellness: {
-        title: "Wellness & Relaxation",
-        description: "Treat yourself with our range of wellness services designed to rejuvenate body and mind.",
+        title: "Comfort & Wellness",
+        description: "Selected properties offer wellness amenities for relaxation during your stay.",
         items: [
           {
-            title: "Luxury Spa",
-            description: "Our spa offers a full range of treatments, from traditional therapies to the most modern beauty treatments."
+            title: "Swimming Pools",
+            description: "Several properties feature private or shared pools, perfect for Kenya's warm climate."
           },
           {
-            title: "Fitness Center",
-            description: "Maintain your fitness routine with our state-of-the-art gym featuring panoramic sea views."
+            title: "Garden Spaces",
+            description: "Enjoy outdoor seating areas and gardens for morning coffee or evening relaxation."
           },
           {
-            title: "Infinity Pool",
-            description: "Immerse yourself in our infinity pool while admiring the endless horizon of the sea."
+            title: "Gym Access",
+            description: "Select properties offer gym facilities or are near fitness centers in Nairobi and Mombasa."
           },
           {
-            title: "Beach Yoga",
-            description: "Join our morning yoga sessions on the beach for a revitalizing awakening."
+            title: "Quiet Retreats",
+            description: "Properties in Karen, Kilifi, and Nakuru offer peaceful environments away from city noise."
           }
         ]
       },
       dining: {
-        title: "Dining",
-        description: "Discover the best of local and international cuisine at our restaurants and bars.",
+        title: "Dining & Kitchen",
+        description: "Experience Kenyan cuisine or cook your own meals with our kitchen facilities.",
         items: [
           {
-            title: "Gourmet Restaurant",
-            description: "Savor fine dishes prepared by our chefs with fresh local ingredients."
+            title: "Fully Equipped Kitchens",
+            description: "All properties have complete kitchens with cookware, utensils, and modern appliances."
           },
           {
-            title: "Beach Bar",
-            description: "Enjoy refreshing cocktails and light snacks with your feet in the sand."
+            title: "Local Market Access",
+            description: "Samuel provides guides to nearby markets for fresh produce, spices, and authentic ingredients."
           },
           {
-            title: "Lounge Bar",
-            description: "Relax with a selection of fine wines and spirits in an elegant atmosphere."
+            title: "Restaurant Recommendations",
+            description: "Get Samuel's curated list of the best local restaurants, from nyama choma to fine dining."
           },
           {
-            title: "Room Service",
-            description: "Enjoy gourmet meals in the privacy of your apartment, available 24 hours a day."
+            title: "Grocery Delivery",
+            description: "Pre-arrival grocery stocking service available - arrive to a fully stocked kitchen."
           }
         ]
       },
       services: {
-        title: "Extra Services",
-        description: "Take advantage of our additional services for a hassle-free stay.",
+        title: "Guest Services",
+        description: "Samuel and team provide comprehensive support throughout your stay.",
         items: [
           {
-            title: "24/7 Concierge",
-            description: "Our concierge team is available at any time to assist you with any request."
+            title: "24/7 Host Support",
+            description: "Samuel and the team are available around the clock for any questions or assistance."
           },
           {
             title: "Airport Transfers",
-            description: "Travel comfortably to and from the airport with our private transfer service."
+            description: "Reliable pickup and drop-off service from JKIA Nairobi or Moi International Airport Mombasa."
           },
           {
-            title: "Car Rental",
-            description: "Explore the area with our fleet of premium vehicles available for rent."
+            title: "Tour Arrangements",
+            description: "Book safaris, city tours, beach excursions, and cultural experiences through our network."
           },
           {
-            title: "Guided Excursions",
-            description: "Discover local attractions with our personalized expert-guided tours."
+            title: "Housekeeping",
+            description: "Optional cleaning services available for extended stays - arrange directly with Samuel."
           }
         ]
       },
       entertainment: {
-        title: "Entertainment",
-        description: "Enjoy a variety of recreational activities designed for all tastes.",
+        title: "Local Experiences",
+        description: "Discover authentic Kenya with activities and attractions near each property.",
         items: [
           {
-            title: "Water Sports",
-            description: "Try a wide range of water sports, from paddleboarding to jet skiing."
+            title: "Safari Adventures",
+            description: "Properties near Nairobi and Nakuru offer easy access to national parks and wildlife reserves."
           },
           {
-            title: "Kids Play Area",
-            description: "Little ones can have fun in our safe and supervised play area."
+            title: "Beach Activities",
+            description: "Mombasa and Kilifi properties are minutes from diving, snorkeling, and water sports."
           },
           {
-            title: "Themed Evenings",
-            description: "Join our weekly themed evenings with live music and entertainment."
+            title: "Cultural Tours",
+            description: "Experience Kenyan culture - markets, art galleries, museums, and local communities."
           },
           {
-            title: "Library & Game Room",
-            description: "Relax with a good book or enjoy board games in our common room."
+            title: "Nightlife & Entertainment",
+            description: "Nairobi properties are close to vibrant restaurants, bars, and live music venues."
           }
         ]
       }

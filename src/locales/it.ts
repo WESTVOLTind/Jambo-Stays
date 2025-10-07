@@ -1,26 +1,26 @@
 export const it = {
   nav: {
     home: "Home",
-    apartments: "Appartamenti",
+    apartments: "Proprietà",
     amenities: "Servizi",
     gallery: "Galleria",
     contact: "Contatti",
     bookNow: "Prenota Ora"
   },
   hero: {
-    subtitle: "ALLOGGI DI LUSSO SUL MARE",
-    title: "Vivi la Tranquillità del Mare",
-    description: "Scopri la nostra esclusiva collezione di appartamenti di lusso e camere d'albergo sul mare, che offrono comfort impareggiabile e viste mozzafiato sul mare.",
+    subtitle: "JAMBO STAYS KENYA - DA SAMUEL",
+    title: "Vivi l'Autentica Ospitalità Keniota",
+    description: "Scopri la nostra collezione di proprietà Airbnb in Kenya, che offrono il perfetto connubio di cultura locale, servizi moderni e calorosa ospitalità.",
     bookStay: "Prenota il tuo Soggiorno",
-    exploreApartments: "Esplora gli Appartamenti",
+    exploreApartments: "Esplora le Proprietà",
     scrollDown: "Scorri Giù"
   },
   footer: {
-    description: "Appartamenti di lusso sul mare e camere d'albergo con splendide viste sul mare, che offrono il perfetto connubio di comfort ed eleganza per la tua vacanza da sogno.",
+    description: "Alloggi Airbnb premium nelle città più vivaci del Kenya. Vivi l'autentica ospitalità keniota con comfort moderno, curato da Samuel per il tuo soggiorno perfetto.",
     quickLinks: "Link Rapidi",
     contact: "Contatti",
     newsletter: "Newsletter",
-    newsletterDesc: "Iscriviti alla nostra newsletter per offerte speciali e aggiornamenti.",
+    newsletterDesc: "Iscriviti per offerte esclusive e consigli di viaggio in Kenya.",
     yourEmail: "Il tuo indirizzo email",
     subscribe: "Iscriviti",
     allRights: "Tutti i diritti riservati."
@@ -39,7 +39,7 @@ export const it = {
   },
   testimonials: {
     title: "Cosa Dicono i Nostri Ospiti",
-    description: "Scopri perché i nostri ospiti continuano a tornare a MareSereno per le loro fughe al mare."
+    description: "Scopri perché i viaggiatori scelgono Jambo Stays Kenya per la loro autentica esperienza keniota."
   },
   notFound: {
     title: "Pagina Non Trovata",
@@ -47,8 +47,8 @@ export const it = {
     returnHome: "Torna alla Home"
   },
   apartments: {
-    title: "I Nostri Appartamenti e Camere",
-    subtitle: "Scopri la nostra selezione di alloggi premium, dalle accoglienti mansarde ai lussuosi attici.",
+    title: "Le Nostre Proprietà",
+    subtitle: "Sfoglia la nostra selezione curata di proprietà Airbnb in Kenya, da monolocali accoglienti a spaziose case familiari.",
     filters: {
       guests: "Ospiti",
       anyGuests: "Qualsiasi numero di ospiti",
@@ -218,23 +218,23 @@ export const it = {
   },
   home: {
     welcome: {
-      subtitle: "Benvenuti a MareSereno",
-      title: "Alloggi di Lusso sul Mare",
-      description1: "Situato sulla incontaminata costa mediterranea, MareSereno offre una squisita collezione di appartamenti di lusso e camere d'albergo. I nostri alloggi fronte mare combinano un design elegante con comfort moderni, creando l'ambientazione perfetta per una indimenticabile fuga al mare.",
-      description2: "Che tu stia cercando una fuga romantica, una vacanza in famiglia o un ritiro tranquillo, la nostra vasta gamma di alloggi si adatta a ogni preferenza ed esigenza. Ogni spazio è progettato con cura per fornire viste panoramiche sul mare e accesso diretto alla spiaggia.",
+      subtitle: "Benvenuti a Jambo Stays Kenya",
+      title: "La Tua Casa Lontano da Casa in Kenya",
+      description1: "Curato da Samuel, Jambo Stays Kenya offre una collezione di proprietà Airbnb nelle destinazioni più interessanti del Kenya. Dalle vivaci strade di Nairobi alla bellezza costiera di Mombasa, ogni proprietà combina fascino autentico keniota con servizi moderni.",
+      description2: "Che tu sia qui per affari, avventure safari, relax in spiaggia o esplorazione culturale, le nostre diverse proprietà soddisfano le esigenze di ogni viaggiatore. Ogni spazio è personalmente ispezionato e attrezzato per garantire comfort e sicurezza.",
       learnMore: "Scopri di Più"
     },
     booking: {
       subtitle: "Prenota il tuo Soggiorno",
-      title: "Prenota la tua Vacanza Perfetta",
-      description: "Fai il primo passo verso la tua vacanza da sogno verificando la disponibilità e assicurandoti le date preferite. Il nostro semplice processo di prenotazione garantisce un'esperienza senza interruzioni dalla prenotazione all'arrivo.",
-      benefits: ["Conferma istantanea", "Miglior tariffa garantita", "Opzioni di cancellazione flessibili", "Pagamento sicuro"]
+      title: "Prenota la Tua Esperienza Keniota Perfetta",
+      description: "Prenota con fiducia attraverso il nostro semplice sistema di prenotazione. Le proprietà di Samuel sono pronte ad accoglierti con autentica ospitalità keniota e comfort moderno.",
+      benefits: ["Conferma istantanea", "Proprietà verificate", "Supporto host 24/7", "Pagamento sicuro"]
     },
     featuredApartments: {
-      subtitle: "I Nostri Alloggi",
-      title: "Appartamenti in Evidenza",
-      description: "Scopri le nostre opzioni di alloggio più popolari, ognuna che offre un perfetto equilibrio di comfort, stile e viste mozzafiato sul mare.",
-      viewAll: "Visualizza Tutti gli Appartamenti"
+      subtitle: "Le Nostre Proprietà",
+      title: "Alloggi in Evidenza",
+      description: "Esplora le nostre proprietà più apprezzate in Kenya, ognuna offre comfort eccezionale, carattere locale e accesso conveniente alle attrazioni.",
+      viewAll: "Visualizza Tutte le Proprietà"
     },
     amenities: {
       subtitle: "Servizi dell'Hotel",
@@ -268,8 +268,8 @@ export const it = {
       }
     },
     cta: {
-      title: "Pronto per la tua Vacanza da Sogno?",
-      description: "Prenota il tuo soggiorno oggi e vivi il perfetto connubio di lusso, comfort e viste mozzafiato sul mare.",
+      title: "Pronto per Vivere il Kenya?",
+      description: "Prenota oggi e scopri l'autentica ospitalità keniota combinata con comfort moderno. Karibu Kenya!",
       bookNow: "Prenota Ora"
     }
   },
@@ -370,28 +370,28 @@ export const it = {
   },
   apartmentDescriptions: {
     "1": {
-      name: "Suite Vista Mare Deluxe",
-      description: "Suite lussuosa con vista panoramica sul mare, comfort moderni e balcone privato."
+      name: "Suite Skyline Nairobi",
+      description: "Moderno appartamento con 2 camere da letto a Westlands con vista sulla città, Wi-Fi veloce e parcheggio sicuro."
     },
     "2": {
-      name: "Appartamento Premium per Famiglie",
-      description: "Appartamento spazioso ideale per famiglie, con cucina completa e splendide viste costiere."
+      name: "Casa sulla Spiaggia Mombasa",
+      description: "Spaziosa casa con 3 camere da letto vicino a Diani Beach, perfetta per famiglie, con piscina e brezza oceanica."
     },
     "3": {
-      name: "Studio Esecutivo sulla Spiaggia",
-      description: "Elegante studio con accesso diretto alla spiaggia, design moderno e finiture di pregio."
+      name: "Studio Garden Nakuru",
+      description: "Accogliente monolocale vicino al Lago Nakuru, ideale per viaggiatori solitari e appassionati di safari."
     },
     "4": {
-      name: "Suite Attico di Lusso",
-      description: "Esclusiva suite all'ultimo piano con ampia terrazza e vista panoramica sul mare."
+      name: "Villa di Lusso Karen",
+      description: "Esclusiva villa con 4 camere da letto a Karen, Nairobi con giardini lussureggianti e servizi premium."
     },
     "5": {
-      name: "Camera Doppia Classica",
-      description: "Confortevole camera d'albergo con comfort moderni e vista parziale sul mare."
+      name: "Appartamento Business CBD",
+      description: "Comodo monolocale nel CBD di Nairobi, perfetto per viaggiatori d'affari con spazio di lavoro."
     },
     "6": {
-      name: "Appartamento Vista Giardino",
-      description: "Appartamento tranquillo circondato da rigogliosi giardini, a breve distanza dalla spiaggia."
+      name: "Rifugio Costiero Kilifi",
+      description: "Tranquillo appartamento con 2 camere da letto vicino a Kilifi con vista sul giardino e accesso alla spiaggia."
     }
   }
 };
